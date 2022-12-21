@@ -4,10 +4,12 @@
 
 ul {
     list-style-type: disc;
+    list-style-position: inside;
 }
 
 ul ul {
     margin-top: 0 !important;
+    margin-left: 25px;
     list-style-type: circle;
     list-style-position: inside;
 }

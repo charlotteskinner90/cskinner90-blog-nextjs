@@ -11,6 +11,7 @@ import Head from 'next/head'
 import { META_TITLE } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 import type PostType from '../../interfaces/post'
+import DarkModeToggle from '../../components/toggleDarkMode'
 
 type Props = {
   post: PostType
@@ -49,6 +50,7 @@ export default function Post({ post, morePosts, preview }: Props) {
           </>
         )}
       </Container>
+      <DarkModeToggle />
     </Layout>
   )
 }

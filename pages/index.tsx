@@ -6,6 +6,7 @@ import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import Post from '../interfaces/post'
+import DarkModeToggle from '../components/toggleDarkMode'
 
 type Props = {
   allPosts: Post[]
@@ -37,6 +38,7 @@ export default function Index({ allPosts }: Props) {
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </Container>
       </Layout>
+      <DarkModeToggle />
     </>
   )
 }

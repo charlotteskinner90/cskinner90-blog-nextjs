@@ -3,13 +3,13 @@ title: 'Imposter Syndrome'
 excerpt: 'People have visions of coding life to be full of innovation, daily wins
   and inspiration - and some days are! But there are other days when you just
   feel like hibernating until it all blows over..'
-coverImage: '/assets/blog/imposter/imposter.jpeg'
+coverImage: '/assets/blog/imposter/cover1.webp'
 date: '2018-03-31T16:14:05.568Z'
 author:
   name: Charlotte Skinner
-  picture: '/assets/blog/authors/charlotte.jpeg'
+  picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
-  url: '/assets/blog/imposter/imposter.jpeg'
+  url: '/assets/blog/imposter/cover1.webp'
 ---
 
 People have visions of coding life to be full of innovation, daily wins and inspiration - and some days are! But there are other days when you just feel like hibernating until it all blows over. I think it's important to show the not-so-pretty side to learning to code. Inspiration for this post has come from a couple of really bloody hard, trying weeks and gives an honest account of the trials and tribulations of a career as a junior developer.

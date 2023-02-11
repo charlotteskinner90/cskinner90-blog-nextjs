@@ -5,7 +5,7 @@ coverImage: '/assets/blog/hello-again/hello.webp'
 date: '2022-12-18T09:55:47.424Z'
 author:
   name: Charlotte Skinner
-  picture: '/assets/blog/authors/charlotte.jpeg'
+  picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
   url: '/assets/blog/hello-again/hello.webp'
 ---

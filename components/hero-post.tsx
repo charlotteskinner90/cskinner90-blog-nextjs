@@ -28,7 +28,7 @@ const HeroPost = ({
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
-          <h3 className="dark:text-white mb-4 text-4xl lg:text-5xl leading-tight">
+          <h3 className="dark:text-neutral-50 mb-4 text-4xl lg:text-5xl leading-tight">
             <Link
               as={`/posts/${slug}`}
               href="/posts/[slug]"
@@ -37,12 +37,12 @@ const HeroPost = ({
               {title}
             </Link>
           </h3>
-          <div className="dark:text-white mb-4 md:mb-0 text-lg">
+          <div className="dark:text-neutral-50 mb-4 md:mb-0 text-lg">
             <DateFormatter dateString={date} />
           </div>
         </div>
         <div>
-          <p className="dark:text-white text-lg leading-relaxed mb-4">{excerpt}</p>
+          <p className="dark:text-neutral-50 text-lg leading-relaxed mb-4">{excerpt}</p>
           <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>

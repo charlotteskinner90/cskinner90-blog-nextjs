@@ -2,13 +2,13 @@
 title: 'First day as a Junior Software Developer'
 excerpt: 'So I have just had my first day as a Junior Software Developer, and it
 surpassed all expectations! This is a run-down of how the day went..'
-coverImage: '/assets/blog/first-day/coder.jpg'
+coverImage: '/assets/blog/first-day/notebook.webp'
 date: '2017-10-31T00:00:00.000Z'
 author:
   name: Charlotte Skinner
-  picture: '/assets/blog/authors/charlotte.jpeg'
+  picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
-  url: '/assets/blog/first-day/coder.jpg'
+  url: '/assets/blog/first-day/notebook.webp'
 ---
 
 So I have just had my first day as a Junior Software Developer, and it surpassed all expectations! This is a run-down of how the day went:

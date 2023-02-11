@@ -6,18 +6,18 @@ const Intro = () => {
 
   return (
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
-      <h1 className="dark:text-white text-6xl md:text-7xl font-bold tracking-tighter leading-tight md:pr-8 text-center md:text-left">
+      <h1 className="dark:text-neutral-50 text-6xl md:text-7xl font-bold tracking-tight leading-tight md:pr-8 text-center md:text-left">
         Charlotte Skinner
       </h1>
       <div className="flex-col md:flex-row flex items-center md:justify-between">
-        <h4 className="dark:text-white text-center md:text-left text-lg mt-5 md:mr-5 lg:mr-5 md:pl-8">
+        <h4 className="dark:text-neutral-50 text-center md:text-left text-lg mt-5 md:mr-5 lg:mr-5 md:pl-8">
           {HEADLINE}
         </h4>
         {colorTheme === "light" ? (
           <svg
             onClick={() => setTheme("light")}
             xmlns="http://www.w3.org/2000/svg"
-            className="h-6 w-6 mt-5 dark:text-white cursor-pointer"
+            className="h-6 w-6 mt-5 dark:text-neutral-50 cursor-pointer"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
@@ -33,7 +33,7 @@ const Intro = () => {
           <svg
             onClick={() => setTheme("dark")}
             xmlns="http://www.w3.org/2000/svg"
-            className="h-6 w-6 mt-5 dark:text-white cursor-pointer rounded-full hover:shadow-lg transition-shadow duration-200"
+            className="h-6 w-6 mt-5 dark:text-neutral-50 cursor-pointer rounded-full hover:shadow-lg transition-shadow duration-200"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"

@@ -6,7 +6,7 @@ const Header = () => {
 
   return (
     <div className='flex flex-row justify-between'>
-      <h2 className="dark:text-white text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8">
+      <h2 className="dark:text-neutral-50 text-2xl md:text-4xl font-bold tracking-tight leading-tight mb-20 mt-8">
         <Link href="/" className="hover:underline">
           Charlotte Skinner
         </Link>
@@ -15,7 +15,7 @@ const Header = () => {
         <svg
           onClick={() => setTheme("light")}
           xmlns="http://www.w3.org/2000/svg"
-          className="h-6 w-6 mt-8 dark:text-white cursor-pointer"
+          className="h-6 w-6 mt-8 dark:text-neutral-50 cursor-pointer"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
@@ -31,7 +31,7 @@ const Header = () => {
         <svg
           onClick={() => setTheme("dark")}
           xmlns="http://www.w3.org/2000/svg"
-          className="h-6 w-6 mt-8 dark:text-white cursor-pointer rounded-full hover:shadow-lg transition-shadow duration-200"
+          className="h-6 w-6 mt-8 dark:text-neutral-50 cursor-pointer rounded-full hover:shadow-lg transition-shadow duration-200"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"

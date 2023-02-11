@@ -26,7 +26,7 @@ const PostPreview = ({
       <div className="mb-5">
         <CoverImage slug={slug} title={title} src={coverImage} loading="lazy" height={250} width={400} />
       </div>
-      <h3 className="dark:text-white text-3xl mb-3 leading-snug">
+      <h3 className="dark:text-neutral-50 text-3xl mb-3 leading-snug">
         <Link
           as={`/posts/${slug}`}
           href="/posts/[slug]"
@@ -35,10 +35,10 @@ const PostPreview = ({
           {title}
         </Link>
       </h3>
-      <div className="dark:text-white text-lg mb-4">
+      <div className="dark:text-neutral-50 text-lg mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="dark:text-white text-lg leading-relaxed mb-4">{excerpt}</p>
+      <p className="dark:text-neutral-50 text-lg leading-relaxed mb-4">{excerpt}</p>
       <Avatar name={author.name} picture={author.picture} />
     </div>
   )

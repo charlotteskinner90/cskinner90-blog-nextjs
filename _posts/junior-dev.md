@@ -1,13 +1,13 @@
 ---
 title: 'Junior Software Developer'
 excerpt: 'My first developer job'
-coverImage: '/assets/blog/first-day/dev-dots.png'
+coverImage: '/assets/blog/dynamic-routing/cover.webp'
 date: '2017-10-09T23:00:00.000Z'
 author:
   name: Charlotte Skinner
-  picture: '/assets/blog/authors/charlotte.jpeg'
+  picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
-  url: '/assets/blog/first-day/dev-dots.png'
+  url: '/assets/blog/dynamic-routing/cover.webp'
 ---
 
 **THE** most incredible thing happened.. I got a job!! As the title of this blog post suggests, I am now officially a Junior Software Developer for a company in Brighton called **[Madgex](https://madgex.com/)**. They make job board software for various huge names in the recruitment industry including The Guardian, Telegraph, Washington Post amongst many others.

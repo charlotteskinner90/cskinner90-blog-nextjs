@@ -1,13 +1,13 @@
 ---
 title: 'Maintaining a work-life balance'
 excerpt: 'In this blog post I wanted to tell you about my first few months as a developer, and discuss how to maintain a work/life balance when you are starting out..'
-coverImage: '/assets/blog/work-life/work-life.png'
+coverImage: '/assets/blog/work-life/desk.webp'
 date: '2018-03-04T17:07:54.535Z'
 author:
   name: Charlotte Skinner
-  picture: '/assets/blog/authors/charlotte.jpeg'
+  picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
-  url: '/assets/blog/work-life/work-life.png'
+  url: '/assets/blog/work-life/desk.webp'
 ---
 
 Hi everyone!

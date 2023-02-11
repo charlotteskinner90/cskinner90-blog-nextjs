@@ -1,13 +1,13 @@
 ---
 title: 'An Update on 2018'
 excerpt: "Updates on what i've been up to the last 6 months.."
-coverImage: '/assets/blog/2018/macbook.jpeg'
+coverImage: '/assets/blog/2018/macbook.webp'
 date: '2018-11-22T09:55:47.424Z'
 author:
   name: Charlotte Skinner
-  picture: '/assets/blog/authors/charlotte.jpeg'
+  picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
-  url: '/assets/blog/2018/macbook.jpeg'
+  url: '/assets/blog/2018/macbook.webp'
 ---
 
 It's been six months since my last blog post, which I can 100% say is due to having a jam-packed six months. Also partially that I didn't know how to sum all of it up!

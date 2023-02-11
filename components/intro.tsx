@@ -7,7 +7,7 @@ const Intro = () => {
         Charlotte Skinner
       </h1>
       <div className="flex-col md:flex-row flex items-center md:justify-between">
-        <h4 className="dark:text-neutral-50 text-right text-lg mt-5 md:mr-5 lg:mr-5 md:pl-0">
+        <h4 className="dark:text-neutral-50 text-center md:text-right text-lg mt-5 md:mr-5 lg:mr-5 md:pl-0">
           {HEADLINE}
         </h4>
       </div>

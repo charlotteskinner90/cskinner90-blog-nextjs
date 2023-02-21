@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import useDarkMode from '../lib/useDarkMode'
 
 const Header = () => {
   return (

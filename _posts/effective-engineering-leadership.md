@@ -8,7 +8,7 @@ author:
   picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
   url: '/assets/blog/management/leader.webp'
-tags: 'Leadership'
+tags: ['Leadership', 'Management']
 ---
 
 Being an effective Engineering Team Lead is a challenging but rewarding role that requires a unique set of skills and abilities. An effective Engineering Team Lead is not just a technical expert, but also a manager, a mentor, and a problem-solver. It is the Engineering Team Lead's job to ensure that their team is productive, that the team members are happy and that the team's goals are being met.

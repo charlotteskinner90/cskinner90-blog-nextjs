@@ -9,9 +9,10 @@ type Props = {
   loading?: "eager" | "lazy"
   width?: number
   height?: number
+  priority?: boolean
 }
 
-const CoverImage = ({ title, src, slug, loading, width, height }: Props) => {
+const CoverImage = ({ title, src, slug, loading, width, height, priority = false }: Props) => {
   const image = (
     <Image
       src={src}
@@ -22,6 +23,7 @@ const CoverImage = ({ title, src, slug, loading, width, height }: Props) => {
       })}
       width={width}
       height={height}
+      priority={priority}
     />
   )
   return (

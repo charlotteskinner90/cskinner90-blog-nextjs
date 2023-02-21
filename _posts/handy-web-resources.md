@@ -9,6 +9,7 @@ author:
   picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
   url: '/assets/blog/web-resources/macbook2.webp'
+tags: ['Development', 'Resources', 'Technical']
 ---
 
 I wanted to write a post about the handy web resources that I have found useful since I started learning to code. It's a very daunting mountain to climb when you start out as a coder, there is just SO MUCH to learn and you often have no idea where to start. A real needle-in-a-haystack situation. These resources I found were great for when I got really stuck on a piece of code that just WOULD NOT WORK or if I just wanted to learn a new coding language. When you start working as a coder especially, you are encouraged to find the answers yourselves before you resort to smiling nicely and bugging your fellow developers. These are the resources I have used in these times to get the answers I need to resolve coding issues:

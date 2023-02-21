@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.webp'
+tags: ['Junior Developer', 'Development']
 ---
 
 **THE** most incredible thing happened.. I got a job!! As the title of this blog post suggests, I am now officially a Junior Software Developer for a company in Brighton called **[Madgex](https://madgex.com/)**. They make job board software for various huge names in the recruitment industry including The Guardian, Telegraph, Washington Post amongst many others.

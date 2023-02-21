@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
   url: '/assets/blog/2018/macbook.webp'
+tags: ['Life']
 ---
 
 It's been six months since my last blog post, which I can 100% say is due to having a jam-packed six months. Also partially that I didn't know how to sum all of it up!

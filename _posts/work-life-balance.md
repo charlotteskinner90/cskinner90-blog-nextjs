@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
   url: '/assets/blog/work-life/desk.webp'
+tags: ['Life']
 ---
 
 Hi everyone!

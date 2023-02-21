@@ -37,6 +37,9 @@ const Meta = () => {
         content={META_TITLE}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <meta property="og:url" content="https://charlotteskinner.dev" />
+      <meta property="og:type" content="website" />
+      <meta name="twitter:creator" content={"@CSkinner90"}/>
     </Head>
   )
 }

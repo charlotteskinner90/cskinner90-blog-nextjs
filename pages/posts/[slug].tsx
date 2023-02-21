@@ -38,12 +38,22 @@ export default function Post({ post, morePosts, preview }: Props) {
                   {post.title} | {META_TITLE}
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
+                <meta
+                  property="og:title"
+                  content={post.title}
+                />
+                <meta name="twitter:card" content="summary" />
+                <meta
+                  property="og:description"
+                  content={post.excerpt}
+                />
               </Head>
               <PostHeader
                 title={post.title}
                 coverImage={post.coverImage}
                 date={post.date}
                 author={post.author}
+                tags={post.tags}
               />
               <PostBody content={post.content} />
             </article>
@@ -66,10 +76,12 @@ export async function getStaticProps({ params }: Params) {
     'title',
     'date',
     'slug',
+    'excerpt',
     'author',
     'content',
     'ogImage',
     'coverImage',
+    'tags'
   ])
   const content = await markdownToHtml(post.content || '')
 

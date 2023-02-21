@@ -11,6 +11,7 @@ type Props = {
   excerpt: string
   author: Author
   slug: string
+  tags: Array<string>
 }
 
 const PostPreview = ({
@@ -18,8 +19,9 @@ const PostPreview = ({
   coverImage,
   date,
   excerpt,
-  author,
+  // author,
   slug,
+  tags
 }: Props) => {
   return (
     <div>
@@ -39,7 +41,18 @@ const PostPreview = ({
         <DateFormatter dateString={date} />
       </div>
       <p className="dark:text-neutral-50 text-lg leading-relaxed mb-4">{excerpt}</p>
-      <Avatar name={author.name} picture={author.picture} />
+      {/* <Avatar name={author.name} picture={author.picture} /> */}
+      {tags && (
+        <div className='flex'>
+            {tags.map((tag, i) => (
+              <span
+                key={`${title}_tag_${i}`}
+                className="px-4 py-2 mr-1.5 mt-1 rounded-full border border-gray-300 text-gray-500 dark:text-neutral-50 font-semibold text-sm flex align-center w-max">
+                {tag}
+              </span>
+            ))}
+        </div>
+      )}
     </div>
   )
 }

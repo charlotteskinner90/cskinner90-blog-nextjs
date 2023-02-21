@@ -9,6 +9,7 @@ author:
   picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
   url: '/assets/blog/first-day/notebook.webp'
+tags: ['Junior Developer', 'Development']
 ---
 
 So I have just had my first day as a Junior Software Developer, and it surpassed all expectations! This is a run-down of how the day went:

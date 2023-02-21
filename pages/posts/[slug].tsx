@@ -41,11 +41,14 @@ export default function Post({ post, morePosts, preview }: Props) {
                   property="og:title"
                   content={post.title}
                 />
-                <meta name="twitter:card" content="summary" />
                 <meta
                   property="og:description"
                   content={post.excerpt}
                 />
+                <meta name="twitter:card" content="summary" />
+                <meta name="twitter:title" content={post.title} />
+                <meta name="twitter:description" content={post.excerpt} />
+                <meta name="twitter:image" content="/assets/blog/og-image.webp"/>
               </Head>
               <PostHeader
                 title={post.title}

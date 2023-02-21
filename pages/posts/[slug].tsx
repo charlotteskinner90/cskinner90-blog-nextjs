@@ -8,7 +8,6 @@ import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Head from 'next/head'
-import { META_TITLE } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 import type PostType from '../../interfaces/post'
 import DarkModeToggle from '../../components/toggleDarkMode'
@@ -35,9 +34,9 @@ export default function Post({ post, morePosts, preview }: Props) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | {META_TITLE}
+                  {post.title} | Charlotte Skinner
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
+                <meta property="og:image" content="/assets/blog/og-image.webp" />
                 <meta
                   property="og:title"
                   content={post.title}

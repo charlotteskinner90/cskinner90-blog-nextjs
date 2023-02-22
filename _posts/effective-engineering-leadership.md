@@ -11,17 +11,17 @@ ogImage:
 tags: ['Leadership', 'Management']
 ---
 
-Being an effective Engineering Team Lead is a challenging but rewarding role that requires a unique set of skills and abilities. An effective Engineering Team Lead is not just a technical expert, but also a manager, a mentor, and a problem-solver. It is the Engineering Team Lead's job to ensure that their team is productive, that the team members are happy and that the team's goals are being met.
+Being an effective Engineering Team Lead is a challenging but rewarding role that requires a unique set of skills and abilities. An Engineering Team Lead is not just a technical expert, but also a manager, a mentor, and a problem-solver. It is the Team Lead's job to ensure that their team is productive, that the team members are happy and that the team's goals are being met.
 
 In this post, we will explore some key strategies for being an effective Engineering Team Lead, including setting clear goals and expectations, fostering a culture of collaboration and communication, and developing a deep understanding of your team and their strengths and weaknesses.
 
 ## Setting clear goals
 
-One of the most important strategies for being an effective Engineering Team Lead is setting clear goals and expectations. This includes both short term and long term goals and should include both technical and non-technical goals. Once the goals are set, it is the Engineering Team Lead's job to make sure that the team is working towards them.
+One of the most important strategies for being an effective Engineering Team Lead is setting clear goals and expectations. This includes both short term and long term goals and should include both technical and non-technical goals. Once the goals are set, it is the Team Lead's job to make sure that the team is working towards them.
 
 As a leader, it is your responsibility to clearly communicate what is expected of your team, both in terms of technical deliverables and overall performance. 
 
-This includes setting clear deadlines and milestones, as well as providing regular feedback and opportunities for growth and development. It is important for the Engineering Team Lead to make sure that the goals are realistic and that there are clear steps in place to reach them.  This will help your team stay focused and motivated, and ensure that everyone is working towards the same objectives.
+This includes setting clear deadlines and milestones, as well as providing regular feedback and opportunities for growth and development. It is important for the Team Lead to make sure that the goals are realistic and that there are clear steps in place to reach them. This will help your team stay focused and motivated, and ensure that everyone is working towards the same objectives.
 
 ## Communication
 
@@ -39,7 +39,7 @@ An effective Engineering Team Lead should lead by example. This means being a ro
 
 ## Celebrating success
 
-Finally, it is important for an Engineering Team Lead to celebrate the successes of their team. This could be anything from shout-outs for a successful project launch, achieving certain OKRs, to a team member earning a promotion. Celebrating successes helps to foster a positive environment and will help the team stay motivated.
+Finally, it is important for an Engineering Team Lead to celebrate the successes of their team. This could be anything from shout-outs for a successful feature launch, achieving certain OKR's, to a team member earning a promotion. Celebrating successes helps to foster a positive environment and will help the team stay motivated.
 
 ## Conclusion
 

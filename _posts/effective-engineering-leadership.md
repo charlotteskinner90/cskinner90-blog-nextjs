@@ -1,46 +1,62 @@
 ---
-title: 'Effective Engineering Leadership'
-excerpt: "Being an effective Engineering Team Lead is a challenging but rewarding role that requires a unique set of skills and abilities. An effective Engineering Team Lead is not just a technical expert…"
-coverImage: '/assets/blog/management/leader.webp'
-date: '2023-01-14T09:55:47.424Z'
+title: 'What Makes an Effective Engineering Team Lead?'
+excerpt: "Becoming a Team Lead in engineering might seem straightforward at first. But once you’re in the role, you quickly realise it’s about much more than writing good code.."
+coverImage: '/assets/blog/management/leadership.png'
+date: '2025-01-14T09:55:47.424Z'
 author:
   name: Charlotte Skinner
   picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
-  url: '/assets/blog/management/leader.webp'
+  url: '/assets/blog/management/leadership.png'
 tags: ['Leadership', 'Management']
 ---
 
-Being an effective Engineering Team Lead is a challenging but rewarding role that requires a unique set of skills and abilities. An Engineering Team Lead is not just a technical expert, but also a manager, a mentor, and a problem-solver. It is the Team Lead's job to ensure that their team is productive, that the team members are happy and that the team's goals are being met.
+Becoming a Team Lead in engineering might seem straightforward at first. But once you’re in the role, you quickly realise it’s about much more than writing good code. You’re responsible for guiding people, balancing priorities, keeping delivery on track, and making sure the team feels supported.
 
-In this post, we will explore some key strategies for being an effective Engineering Team Lead, including setting clear goals and expectations, fostering a culture of collaboration and communication, and developing a deep understanding of your team and their strengths and weaknesses.
+It’s a role that demands both technical ability and a good understanding of people. Done well, it can be one of the most rewarding parts of your career.
 
-## Setting clear goals
+Here are a few things I’ve found really matter when it comes to leading well, drawn from real experience, with real teams.
 
-One of the most important strategies for being an effective Engineering Team Lead is setting clear goals and expectations. This includes both short term and long term goals and should include both technical and non-technical goals. Once the goals are set, it is the Team Lead's job to make sure that the team is working towards them.
+## Set goals that actually help people focus
 
-As a leader, it is your responsibility to clearly communicate what is expected of your team, both in terms of technical deliverables and overall performance. 
+It’s surprisingly easy for a team to lose sight of the bigger picture, especially when there’s pressure to ship. Clear goals help avoid that.
 
-This includes setting clear deadlines and milestones, as well as providing regular feedback and opportunities for growth and development. It is important for the Team Lead to make sure that the goals are realistic and that there are clear steps in place to reach them. This will help your team stay focused and motivated, and ensure that everyone is working towards the same objectives.
+Good goals give people direction and purpose. They should be easy to understand, realistic, and motivating. They should also connect to something larger than just the next feature or bug fix. If the team understands what success looks like and why it matters, they’ll stay more engaged and they’ll usually spot better ways of getting there too.
 
-## Communication
+## Make communication a two-way thing
 
-Communication is key when it comes to being an effective Engineering Team Lead. It is important to make sure that their team is kept informed about the progress of the project and any changes that are happening. This will help eliminate any confusion or misunderstandings and will help the team stay on track.
+Strong teams are built on trust, and trust comes from open, honest communication.
 
-As a manager, it is your responsibility to create an environment where team members feel comfortable sharing their ideas and feedback, and where everyone is encouraged to work together to solve problems and overcome challenges. This includes promoting open and transparent communication, encouraging team members to share their expertise, and fostering a sense of teamwork and camaraderie.
+That doesn’t mean constant meetings or over-explaining. It means making sure people know what’s going on, feel comfortable asking questions, and aren’t left guessing. When changes happen, explain the why behind them. When problems come up, talk about them early.
 
-## Strengths and weaknesses
+It also means listening. Regular check-ins, informal conversations and genuinely taking on feedback all help build a team that talks and solves things together.
 
-An effective Engineering Team Lead also needs to have a deep understanding of their team. This includes understanding the unique strengths and weaknesses of each team member, as well as their personal and professional goals. By understanding your team, you can assign tasks and responsibilities that are well-suited to their strengths, and provide guidance and mentorship to help them develop their skills and achieve their goals.
+## Get to know your team properly
 
-## Lead by example
+Beyond roles and titles, every engineer brings something different. Understanding those differences is what helps you lead well.
 
-An effective Engineering Team Lead should lead by example. This means being a role model in terms of technical expertise, work ethic, and personal integrity. It also means being willing to roll up your sleeves and get your hands dirty when necessary, whether it's debugging a tricky code issue or providing extra support to a team member who is struggling.
+Take the time to learn what motivates your team. What kind of work they enjoy. Where they want to grow. This helps you delegate better, support them more effectively and shape a team culture where people feel valued and seen.
 
-## Celebrating success
+You don’t need a formal plan for this. Just curiosity and a bit of time.
 
-Finally, it is important for an Engineering Team Lead to celebrate the successes of their team. This could be anything from shout-outs for a successful feature launch, achieving certain OKR's, to a team member earning a promotion. Celebrating successes helps to foster a positive environment and will help the team stay motivated.
+## Set the tone by how you show up
 
-## Conclusion
+You don’t need to be the loudest voice in the room or have all the answers. But your attitude sets the tone.
 
-In conclusion, being an effective Engineering Team Lead requires a combination of technical expertise, leadership, mentorship, and problem-solving skills. By setting clear goals and expectations, fostering a culture of collaboration and communication, developing a deep understanding of your team, and leading by example, you can help your colleagues achieve success and build strong, a high-performing engineering team.
+Turn up prepared. Own your work. Admit when you’re wrong. And when something needs fixing, be the person who rolls up their sleeves and gets involved. Leadership is often about the small things: consistency, accountability and staying calm under pressure.
+
+People notice how you handle the hard bits. That’s when trust is built.
+
+## Celebrate the small wins, not just the big ones
+
+In busy teams, it’s easy to move straight onto the next thing. But if you never stop to recognise progress, motivation starts to slip.
+
+You don’t need big announcements. Sometimes a quick “great work on that release” or a shout-out in the stand-up is enough. But those moments matter. They remind people that their effort is seen and appreciated.
+
+It builds energy, and a healthier culture.
+
+## Final thoughts
+
+There’s no single formula for being a great Engineering Team Lead. Every team is different. But if you focus on being clear, supportive and consistent, you’ll create an environment where people can do their best work.
+
+Lead like someone people trust and enjoy working with. That’s where it all starts.

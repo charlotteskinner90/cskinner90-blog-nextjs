@@ -2,7 +2,7 @@
 title: 'What Makes an Effective Engineering Team Lead?'
 excerpt: "Becoming a Team Lead in engineering might seem straightforward at first. But once you’re in the role, you quickly realise it’s about much more than writing good code.."
 coverImage: '/assets/blog/management/leadership.png'
-date: '2025-01-14T09:55:47.424Z'
+date: '2023-01-14T09:55:47.424Z'
 author:
   name: Charlotte Skinner
   picture: '/assets/blog/authors/charlotte.webp'

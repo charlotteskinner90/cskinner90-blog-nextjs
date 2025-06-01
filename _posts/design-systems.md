@@ -39,16 +39,20 @@ Personally, I used Storybook to build out a full component library one that’s 
 
 ## Why Storybook Is So Good for Devs
 
-1. It makes development faster
+**It makes development faster**
+
 You’re not constantly refreshing your main app just to see what a button looks like. You can build and test in isolation, then drop it in with confidence.
 
-2. It’s basically living documentation
+**It’s basically living documentation**
+
 Every component is on display, with examples and usage notes. New devs? Designers? PMs? They can all see what’s available without digging through your codebase.
 
-3. You can catch edge cases early
+**You can catch edge cases early**
+
 Storybook makes it easy to test states you might forget about like loading, error, disabled, etc. It encourages you to think modularly and defensively.
 
-4. You can use it across projects
+**You can use it across projects**
+
 Once your component library is built and published (npm, GitHub Packages, whatever works), you can pull those components into multiple microfrontends. Each new app gets a consistent look and feel, without starting from scratch.
 
 ## Microfrontends + Component Libraries = Chef’s Kiss 👨‍🍳
@@ -59,9 +63,9 @@ And because the library is versioned and maintained separately, updates are clea
 
 ## What Happens If You Don’t Use a Component Library Consistently?
 
-Let’s talk about the other side of this for a second—what happens when a team doesn’t stick to using the component library?
+Let’s talk about the other side of this for a second: What happens when a team doesn’t stick to using the component library?
 
-Short answer? Things get messy. Fast.
+Short answer? Things get messy. Fast. 😬
 
 I’ve seen this play out before, and it usually starts small. Someone needs a slightly different button style "just for this one use case", so they whip up a custom version. Then someone else duplicates that because they didn’t know a similar one already existed. Next thing you know, you’ve got five buttons, three carousels and none of them behave the same.
 

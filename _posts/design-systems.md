@@ -1,13 +1,13 @@
 ---
 title: 'How Using Design Systems (and Storybook) Made Me a Better Developer'
 excerpt: "As a developer, having a design system is like having a map. You don’t have to guess how things should look or behave, because the answers are already baked in..."
-coverImage: '/assets/blog/design-systems/blocks.png'
+coverImage: '/assets/blog/design-systems/blocks.webp'
 date: '2025-05-25T18:55:47.424Z'
 author:
   name: Charlotte Skinner
   picture: '/assets/blog/authors/charlotte.webp'
 ogImage:
-  url: '/assets/blog/design-systems/blocks.png'
+  url: '/assets/blog/design-systems/blocks.webp'
 tags: ['Design', 'Development', 'Accessibility']
 ---
 

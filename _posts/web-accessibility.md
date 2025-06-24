@@ -74,7 +74,7 @@ That’s okay, you can still make the tap area larger without making the element
 
 The takeaway? Making tap areas a bit more generous doesn’t ruin a design, it makes your site more usable for everyone.
 
-## Use ARIA roles When you really need them
+## Use ARIA roles when you really need them
 
 ARIA can help screen readers understand your page, but don’t overuse it. Usually, native HTML elements are enough.
 

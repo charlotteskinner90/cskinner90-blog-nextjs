@@ -56,23 +56,23 @@ A surprising number of people don’t use a mouse, they rely on keyboards or oth
 Try it yourself: just use your keyboard to move around the page. If you get stuck, fix it.
 
 ## Make sure your tap areas are large enough 👆
-One often overlooked piece of accessibility is making sure links, buttons, and interactive elements have an appropriate tap area, especially for mobile and touch devices.
+One thing that often gets overlooked is making sure links, buttons and other interactive elements have a big enough tap area, especially on mobile.
 
 Why it matters:
-Small tap areas frustrate users and can cause accessibility issues for people with motor or vision impairments. According to accessibility guidelines, tap areas should be roughly 48 x 48px (around 44 - 48 dp), regardless of the visual size of the element.
+Tiny tap areas can be a pain to use, especially for people with motor or vision challenges. According to accessibility guidelines tap areas should be roughly 48 x 48px, regardless of how big the element looks.
 
-What if you don’t want to make the button itself larger?
-That’s okay, you can increase the invisible tap area:
+What if you don’t want a huge button?
+That’s okay, you can still make the tap area larger without making the element itself any bigger. Here’s how:
 
-✅ Add padding or negative margins: Maintains a sleek design, but gives the element a larger interactive area.
+✅ Add padding or negative margins: Keep the design sleek, but give it a bigger invisible tap area.
 
-✅ Wrap icon links: Put smaller icons or links inside a parent element that has a larger hit area.
+✅ Wrap smaller links or icons: Put smaller elements inside a parent container that has a larger click area.
 
-✅ Use pseudo-elements (`::before`/`::after`): Subtly expand the click area beyond the visible boundaries.
+✅ Use pseudo‑elements (`::before` / `::after`): Subtly expand the click area beyond the visible boundaries.
 
-✅ Test in practice: Try using your site on mobile and with a keyboard. Make sure tap areas are easy to hit.
+✅ Test for yourself: Try using your site on a phone or with a keyboard. If you miss taps or struggle to click links, it’s worth making the area bigger.
 
-By making tap areas larger, you support accessibility guidelines while preserving a clean layout, making your site more inclusive for everyone.
+The takeaway? Making tap areas a bit more generous doesn’t ruin a design, it makes your site more usable for everyone.
 
 ## Use ARIA roles When you really need them
 

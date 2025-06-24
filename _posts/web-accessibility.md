@@ -55,6 +55,25 @@ A surprising number of people don’t use a mouse, they rely on keyboards or oth
 
 Try it yourself: just use your keyboard to move around the page. If you get stuck, fix it.
 
+## Make sure your tap areas are large enough 👆
+One often overlooked piece of accessibility is making sure links, buttons, and interactive elements have an appropriate tap area, especially for mobile and touch devices.
+
+Why it matters:
+Small tap areas frustrate users and can cause accessibility issues for people with motor or vision impairments. According to accessibility guidelines, tap areas should be roughly 48 x 48px (around 44 - 48 dp), regardless of the visual size of the element.
+
+What if you don’t want to make the button itself larger?
+That’s okay, you can increase the invisible tap area:
+
+✅ Add padding or negative margins: Maintains a sleek design, but gives the element a larger interactive area.
+
+✅ Wrap icon links: Put smaller icons or links inside a parent element that has a larger hit area.
+
+✅ Use pseudo-elements (`::before`/`::after`): Subtly expand the click area beyond the visible boundaries.
+
+✅ Test in practice: Try using your site on mobile and with a keyboard. Make sure tap areas are easy to hit.
+
+By making tap areas larger, you support accessibility guidelines while preserving a clean layout, making your site more inclusive for everyone.
+
 ## Use ARIA roles When you really need them
 
 ARIA can help screen readers understand your page, but don’t overuse it. Usually, native HTML elements are enough.
